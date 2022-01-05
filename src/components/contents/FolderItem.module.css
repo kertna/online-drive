@@ -1,0 +1,20 @@
+div.item {
+    vertical-align: top;
+    display: inline-block;
+    text-align: center;
+    width: 50px;
+    
+    margin-right: 100px;
+    margin-bottom: 10px;
+}
+img {
+    width: 50px;
+    height: 50px;
+    background-color: grey;
+}
+img:hover {
+  opacity: 0.5;
+}
+.caption {
+    display: block;
+}
